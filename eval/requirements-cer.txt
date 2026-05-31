@@ -1,0 +1,4 @@
+fastwer
+pillow
+pytesseract
+
